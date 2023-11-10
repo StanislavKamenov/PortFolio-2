@@ -20,10 +20,6 @@ icon.addEventListener('click', function() {
     }
 });
 
-document.querySelector('.fa-bars').addEventListener('click', function() {
-    let menuDropdown = document.getElementById('menuDropdown');
-    menuDropdown.classList.toggle('active');
-});
 
 let WelcomePage = new Typed('.multiple-text', {
     strings: ['Young and ambitious Frontend developer'],
