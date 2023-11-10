@@ -529,8 +529,8 @@ header {
     }
 
     .social-icons {
-        order: -1; /* Move social icons to the top */
-        margin-left: 3rem; /* Remove margin for social icons */
+        order: -1; 
+        margin-left: 3rem; 
     }
 
     .navMenu a {
