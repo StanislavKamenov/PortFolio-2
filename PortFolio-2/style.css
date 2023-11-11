@@ -566,3 +566,141 @@ header {
         padding: 1rem;
     }
 }
+
+@media only screen and (width: 1024px) {
+    .cube {
+        width: 100px;
+        height: 100px;
+        left: -13rem;
+        top: 10rem;
+    }
+
+    .AboutContent {
+        margin-left: 21rem;
+        margin-top: -5rem;
+    }
+
+    .side {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+
+    .lua {
+        width: 30px;
+    }
+}
+
+@media only screen and (width: 820px) {
+    .cube {
+        width: 100px;
+        height: 100px;
+        left: -13rem;
+        top: 10rem;
+    }
+
+    .AboutContent {
+        margin-left: 21rem;
+        margin-top: -5rem;
+    }
+
+    .side {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+
+    .lua {
+        width: 30px;
+    }
+}
+
+@media only screen and (width: 768px) {
+    .cube {
+        width: 100px;
+        height: 100px;
+        left: 0.5rem;
+        top: 10rem;
+    }
+    .side {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+
+    .lua {
+        width: 30px;
+    }
+}
+
+@media only screen and (width: 912px) {
+    .cube {
+        width: 100px;
+        height: 100px;
+        left: -13rem;
+        top: 10rem;
+    }
+
+    .AboutContent {
+        margin-left: 30rem;
+        margin-top: -5rem;
+    }
+
+    .side {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+
+    .lua {
+        width: 30px;
+    }
+}
+
+@media only screen and (width: 540px) {
+    .cube {
+        width: 100px;
+        height: 100px;
+        left: -0.5rem;
+        top: 5rem;
+    }
+
+    .AboutContent {
+        margin-left: 2rem;
+    }
+
+    .side {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+
+    .lua {
+        width: 30px;
+    }
+}
+
+
+@media only screen and (width: 1280px) {
+    .cube {
+        width: 100px;
+        height: 100px;
+        left: -20rem;
+        top: 14rem;
+    }
+
+    .AboutContent {
+        margin-left: 32rem;
+        margin-top: -5rem;
+    }
+
+    .side {
+        width: 100px;
+        height: 100px;
+        font-size: 15px;
+    }
+
+    .lua {
+        width: 30px;
+    }
+}
