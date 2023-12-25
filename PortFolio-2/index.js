@@ -37,7 +37,7 @@ let technologys = new Typed('.technologys', {
     loop: false
 }) 
 
-const aboutText = "Hello, i`m Stanisalv, 19, from Varna. I graduated from the mechanical engineering school in Varna. I work in Frontend programming, also grow social media and accounts and drive traffic.. I am also a graduate of the Advance Academy course in Varna for Frontend Developer, and I  have a diploma from there. I am young and ambitious, with a great desire to develop in the field of programming and  grow social networks and accounts.";
+const aboutText = "Hello, i`m Stanislav, 19, from Varna. I graduated from the mechanical engineering school in Varna. I work in Frontend programming, also grow social media and accounts and drive traffic.. I am also a graduate of the Advance Academy course in Varna for Frontend Developer, and I  have a diploma from there. I am young and ambitious, with a great desire to develop in the field of programming and  grow social networks and accounts.";
 
 
 let currentIndex = 0;
